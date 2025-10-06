@@ -46,7 +46,7 @@ Any contribution, suggestion, or investigation is welcome!
 
 - [nomis/z906-protocol](https://github.com/nomis/z906-protocol) (serial protocol documentation)
 - [zarpli/logitech-z906](https://github.com/zarpli/logitech-z906) (C++ implementation)
-- [LewisSmallwood/Logitech-Z906-HTTP-API](https://github.com/LewisSmallwood/Logitech-Z906-HTTP-API) (C++/HTTP API)
+- [LewisSmallwood/Logitech-Z906-HTTP-API]([https://github.com/LewisSmallwood/Logitech-Z906-HTTP-API](https://github.com/LewisSmallwood/IoT-Logitech-Z906)) (C++/HTTP API)
 
 ---
 
